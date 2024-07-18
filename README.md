@@ -8,6 +8,10 @@ We're building a simple command-line tool to manage our list of todos. We're fin
 
 ---
 
+## MVP (Minimum Viable Product)
+- Complete steps 1 - 7
+
+
 ## Setup
 
 ### 0. Installation and settings
